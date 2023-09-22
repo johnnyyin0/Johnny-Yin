@@ -1,5 +1,6 @@
 <div align="center">
-# Welcome to my GitHub
+  
+# Welcome to my GitHub!
 
 I am a software developer, who's passionate about learning and continously exploring new technologies!
 
