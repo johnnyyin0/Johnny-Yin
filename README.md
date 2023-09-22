@@ -2,7 +2,7 @@
   
 # Welcome to my GitHub!
 
-👨‍💻 I am a software developer with a strong passion for continuous learning and exploring new technologies!
+👨‍💻 I am a Software Developer with a strong passion for continuous learning and exploring new technologies!
 
 🌱 I am currently diving deeper into WebGL like ThreeJS!
 
