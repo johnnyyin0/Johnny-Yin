@@ -33,3 +33,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnnyyin0&label=Profile%20views&color=0e75b6&style=flat" alt="johnnyyin0" /> </p>
+
