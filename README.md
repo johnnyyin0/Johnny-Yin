@@ -4,7 +4,7 @@
 
 👨‍💻 I am a Software Developer with a strong passion for continuous learning and exploring new technologies!
 
-🌱 I am currently diving deeper into WebGL like ThreeJS!
+🌱 I am currently learning Python, C++, and diving deeper into WebGL like ThreeJS!
 
 📫  Reach me here or at my email: **johnnyyin0@gmail.com**
 
