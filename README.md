@@ -34,6 +34,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### My Certifications
+![image](https://github.com/johnnyyin0/johnnyyin0/assets/120886111/ec2eb657-1ae8-417b-be54-1c809582f9ca)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnnyyin0&label=Profile%20views&color=0e75b6&style=flat" alt="johnnyyin0" /> </p>
 
